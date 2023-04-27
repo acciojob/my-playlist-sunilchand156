@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-*{
+body{
 	background-color:#cccccc;
 	
 }
@@ -11,9 +11,14 @@
 	
 }
 
-a{
+ul{
+	list-style-type:none;
 	text-decoration:none;
 	background-color:white;
+	color:black;
+}
+a{
+	text-decoration:none;
 	color:black;
 }
 .player_two{
